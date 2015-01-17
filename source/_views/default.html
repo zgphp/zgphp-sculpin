@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width">
 
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:site_name" content="ZgPHP Meetup" />
+    <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     {% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% endif %}
     <meta property="og:image" content="{{ site.url }}/images/logo/zgphp.png" />
     {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | striptags | replace({"\\n":""}) }}" />{% else %}<meta property="og:description" content="{{ page.title }}" />{% endif %}
 
-    <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }} &mdash; {{ site.subtitle }}</title>
+    <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }}</title>
 
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,700&subset=latin,latin-ext">
     <link rel="stylesheet" href="{{ site.url }}/lib/bootstrap-3.1.0/css/bootstrap.min.css" />
