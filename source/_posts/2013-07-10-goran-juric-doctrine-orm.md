@@ -1,6 +1,4 @@
 ---
-date: 2013-07-10 10:22:37+00:00
-template: post.html
 title: Goran Jurić – Doctrine ORM
 vimeo_id: 66249603
 image: http://b.vimeocdn.com/ts/437/576/437576017_640.jpg

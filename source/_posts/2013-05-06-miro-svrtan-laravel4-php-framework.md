@@ -1,7 +1,5 @@
 ---
 title: Miro Svrtan - Laravel4 PHP framework
-date: 2013-05-06 08:40:23+00:00
-template: post.html
 vimeo_id: 64535947
 image: http://b.vimeocdn.com/ts/435/217/435217194_640.jpg
 ---

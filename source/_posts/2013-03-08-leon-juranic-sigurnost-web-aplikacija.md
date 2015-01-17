@@ -1,7 +1,5 @@
 ---
 title: Leon Juranić - Sigurnost web aplikacija
-date: 2013-03-08 08:29:06+00:00
-template: post.html
 vimeo_id: 60533154
 image: http://b.vimeocdn.com/ts/420/245/420245610_1280.jpg
 ---

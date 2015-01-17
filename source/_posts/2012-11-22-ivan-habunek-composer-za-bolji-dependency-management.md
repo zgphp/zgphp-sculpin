@@ -1,7 +1,5 @@
 ---
 title: Ivan Habunek - Composer za bolji dependency management
-date: 2012-11-22 22:28:47+00:00
-template: post.html
 vimeo_id: 54094660
 image: http://b.vimeocdn.com/ts/373/912/373912954_1280.jpg
 ---

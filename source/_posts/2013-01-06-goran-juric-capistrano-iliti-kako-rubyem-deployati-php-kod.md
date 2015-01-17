@@ -1,7 +1,5 @@
 ---
 title: Goran Jurić - Capistrano iliti kako Rubyem deployati PHP kod
-date: 2013-01-06 07:00:39+00:00
-template: post.html
 vimeo_id: 55463452
 image: http://b.vimeocdn.com/ts/383/872/383872015_1280.jpg
 ---

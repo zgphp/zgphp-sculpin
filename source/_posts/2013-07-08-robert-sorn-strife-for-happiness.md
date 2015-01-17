@@ -1,11 +1,5 @@
 ---
-date: 2013-07-08 08:00:35+00:00
-template: post.html
-slug: robert-sorn-strife-for-happiness
 title: Robert Šorn – Strife for happiness
-tags:
-- video
-
 vimeo_id: 66249602
 image: http://b.vimeocdn.com/ts/437/577/437577664_640.jpg
 ---

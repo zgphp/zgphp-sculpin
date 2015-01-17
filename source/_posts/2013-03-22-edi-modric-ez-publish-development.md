@@ -1,7 +1,5 @@
 ---
 title: Edi Modrić - Development vanjskih poslova i europskih integracija
-date: 2013-03-22 21:39:35+00:00
-template: post.html
 vimeo_id: 62084354
 image: http://b.vimeocdn.com/ts/432/251/432251197_1280.jpg
 ---

@@ -1,7 +1,5 @@
 ---
 title: Antonio Perić - Symfony2 PHP framework
-date: 2013-04-18 11:26:08+00:00
-template: post.html
 vimeo_id: 64293149
 image: http://b.vimeocdn.com/ts/434/884/434884116_640.jpg
 ---

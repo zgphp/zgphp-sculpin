@@ -1,7 +1,5 @@
 ---
 title: Marko Elezović - Nginx
-date: 2013-03-16 12:19:14+00:00
-template: post.html
 vimeo_id: 61188313
 image: http://b.vimeocdn.com/ts/425/118/425118568_1280.jpg
 ---

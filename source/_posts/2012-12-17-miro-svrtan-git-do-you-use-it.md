@@ -1,7 +1,5 @@
 ---
 title: Miro Svrtan - Git motherfu*ker, do you use it?
-date: 2012-12-17 07:00:05+00:00
-template: post.html
 vimeo_id: 55510493
 image: http://b.vimeocdn.com/ts/384/201/384201720_1280.jpg
 ---
