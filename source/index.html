@@ -1,0 +1,42 @@
+---
+layout: default
+title: Home
+generator: pagination
+pagination:
+    max_per_page: 10
+use:
+    - posts
+---
+
+<h1>ZgPHP Video Archive</h1>
+
+{% for post in page.pagination.items %}
+    <article>
+        <header>
+            <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <p>Pubished: {{post.date|date("d.m.Y @ H:i")}}</p>
+        <img class="video_image" src="{{ post.image }}" alt="{{ post.title }}" />
+        <p>{{ post.blocks.content|raw }}</p>
+    </article>
+
+    <hr />
+{% endfor %}
+
+{% if page.pagination.previous_page or page.pagination.next_page %}
+    <nav>
+        {% if page.pagination.next_page %}
+            <a href="{{ site.url }}{{ page.pagination.next_page.url }}">Older Posts</a>
+        {% endif %}
+        <br />
+        {% if page.pagination.previous_page %}
+            <a href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer Posts</a>
+        {% endif %}
+        <br />
+    </nav>
+{% endif %}
+
+<nav class="pagination">
+    <a class="pull-left" href="{{ site.url }}{{ page.pagination.next_page.url }}">&laquo; Older Posts</a>
+    <a class="pull-right" href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer Posts &raquo;</a>
+</nav>

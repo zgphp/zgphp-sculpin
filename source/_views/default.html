@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:site_name" content="ZgPHP Meetup" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    {% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% endif %}
+    <meta property="og:image" content="{{ site.url }}/images/logo/zgphp.png" />
+    {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | striptags | replace({"\\n":""}) }}" />{% else %}<meta property="og:description" content="{{ page.title }}" />{% endif %}
+
+    <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }} &mdash; {{ site.subtitle }}</title>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,700&subset=latin,latin-ext">
+    <link rel="stylesheet" href="{{ site.url }}/lib/bootstrap-3.1.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{ site.url }}/css/site.css">
+
+    <link rel="alternate" href="{{ site.url }}/atom.xml" type="application/atom+xml" title="ZgPHP Meetup Videos" />
+
+    <!--[if lt IE 9]>
+    <script src="{{ site.url }}/dist/html5shiv.js"></script>
+    <![endif]-->
+</head>
+<body>
+
+    {% include "navigation.html" %}
+
+    <div id="wrap">
+        <div id="main" class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
+                </div>
+                <div class="col-md-3">
+                    {% include "sidebar.html" %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% include "footer.html" %}
+
+    <script type="text/javascript" src="/lib/jquery-1.11.0/jquery-1.11.0.min.js "></script>
+    <script type="text/javascript" src="/lib/bootstrap-3.1.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/lib/colorbox-1.4.36/jquery.colorbox-min.js "></script>
+    <script type="text/javascript" src="/js/site.js"></script>
+
+    {% include "analytics.html" %}
+
+</html>
