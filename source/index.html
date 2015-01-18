@@ -14,9 +14,11 @@ use:
             <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
         <p>Published: {{ post.date|date("F jS, Y") }}</p>
-        <a href="{{ site.url }}{{ post.url }}">
-            <img class="video_image" src="{{ post.image }}" alt="{{ post.title }}" />
-        </a>
+        {% if post.image %}
+            <a href="{{ site.url }}{{ post.url }}">
+                <img class="article_image" src="{{ post.image }}" alt="{{ post.title }}" />
+            </a>
+        {% endif %}
         <p>{{ post.blocks.content|raw }}</p>
     </article>
 
@@ -33,4 +35,3 @@ use:
         {% endif %}
     </nav>
 {% endif %}
-
