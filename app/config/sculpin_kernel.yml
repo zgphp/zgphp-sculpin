@@ -1,3 +1,7 @@
 sculpin_content_types:
-    posts:
+    news:
+        permalink: news/:filename/
+        layout: post
+    videos:
         permalink: videos/:filename/
+        layout: post

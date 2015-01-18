@@ -1,0 +1,47 @@
+---
+title: Novi ZgPHP servisi
+---
+
+Prije ljetne stanke sa predavanjima ZgPHP grupe (u srpnju i kolovozu idemo samo
+sa drinkupovima) odlučili smo isprobati nekoliko novih servisa kako bi olakšali
+članovima sudjelovanje u grupi.
+
+<!-- break -->
+
+#### Meetup.com
+
+Dobivamo sve više sugestija da Facebook i Twitter nisu najbolje mjesto za
+međusobnu komunikaciju članova, kako najave nisu dovoljno vidljive i sl. pa smo
+odlučili organizaciju meetupa u testnoj fazi prebaciti na [meetup.com][meetup].
+
+Platforma omogućava članovima da lako prate kada su sljedeći meetupovi pomoću
+kalendara i obavijesti, o čemu ćemo pričati, lako saznaju tko od
+prijatelja/poznanika/kolega dolazi na meetup, traže savjete od kolegica i kolega
+iz grupe te još puno puno toga. Učlanite se i slobodno prijavite svoj dolazak na
+sljedeći meetup!
+
+#### Uservoice.com
+
+Pomoću [uservoice.com][uservoice] svim članovima omogućavamo da predlažu i
+boduju ideje!!
+
+Sviđa Vam se ideja da jedan od sljedećih meetupa organiziramo kao roštilj ili u
+obliku BarCampa? Bodujte ideju, što više bodova se skupi veća je šansa da se
+takav event i održi!
+
+Imate neku super-cool temu o kojoj bi voljeli čuti više na jednome od meetupa?
+Sugerirajte temu, postoji velika mogućnost da se netko od članova/ica javi
+pričati o toj ideji!
+
+Imate temu o kojoj bi željeli pričati? Sugerirajte temu.
+
+Voljeli bi se okušati u predavanju ali neznate o čemu bi pričali? Pogledajte
+listu tema i javite nam se!
+
+U glavi vam stoji ideja za predavanja ali niste sigurni koliko je tema
+zanimljiva? Dodajte temu i dopustite ostalim članovima/icama da ocjene ideju!
+
+Registracija je vrlo jednostavna a traje 1 minutu!
+
+[meetup]: http://www.meetup.com/ZgPHP-meetup/
+[uservoice]: http://zgphp.uservoice.com/forums/205624-general/filters/top

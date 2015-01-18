@@ -12,7 +12,8 @@
         </div>
         <div class="navbar-collapse collapse" id="navbar-main">
             <ul class="nav navbar-nav">
-                <li><a href="/videos">Archive</a></li>
+                <li{% if page.url starts with '/news'   %} class="active"{% endif %}><a href="/news">News</a></li>
+                <li{% if page.url starts with '/videos' %} class="active"{% endif %}><a href="/videos">Videos</a></li>
             </ul>
         </div>
     </div>

@@ -1,0 +1,12 @@
+---
+layout: default
+title: News
+generator: pagination
+pagination:
+    max_per_page: 10
+    provider: data.news
+use:
+  - news
+---
+
+{% include 'includes/pagination.html' %}

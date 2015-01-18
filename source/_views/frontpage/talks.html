@@ -1,0 +1,9 @@
+<h3>Latest videos</h3>
+<div class="post-list">
+    {% for post in data.videos|slice(0, 5) %}
+        <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+        <div class="meta">{{ post.date|date("F jS, Y") }}</div>
+        <hr />
+    {% endfor %}
+    <a href="/videos">Videos archive »</a>
+</div>

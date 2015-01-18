@@ -1,9 +1,11 @@
 {% extends "default" %}
+
 {% block content_wrapper %}
     <article>
         <header>
             <h1>{{ page.title }}</h1>
         </header>
+
         <p>Published: {{ page.date|date("F jS, Y") }}</p>
 
         {% if page.vimeo_id %}
@@ -16,15 +18,30 @@
             {{ page.blocks.content|raw }}
         </div>
 
-        {% if page.previous_post or page.next_post %}
+        {# next/previous change name based on type #}
+        {% set next_post = null %}
+        {% set previous_post = null %}
+
+        {% for type in ["news", "video"] %}
+            {% if page["next_" ~ type] is defined %}
+                {% set next_post = page["next_" ~ type] %}
+            {% endif %}
+
+            {% if page["previous_" ~ type] is defined %}
+                {% set previous_post = page["previous_" ~ type] %}
+            {% endif %}
+        {% endfor %}
+
+        {% if previous_post or next_post %}
             <hr />
+
             <nav class="prev-next">
                 <ul>
-                    {% if page.next_post %}
-                        <li>Next: <a class="next" href="{{ site.url }}{{ page.next_post.url }}" title="{{ page.next_post.title }}"><span class="title">{{ page.next_post.title }}</span></a></li>
+                    {% if next_post %}
+                        <li>Next: <a class="next" href="{{ site.url }}{{ next_post.url }}" title="{{ next_post.title }}"><span class="title">{{ next_post.title }}</span></a></li>
                     {% endif %}
-                    {% if page.previous_post %}
-                        <li>Previous: <a class="previous" href="{{ site.url }}{{ page.previous_post.url }}" title="{{ page.previous_post.title }}"><span class="title">{{ page.previous_post.title }}</span></a></li>
+                    {% if previous_post %}
+                        <li>Previous: <a class="previous" href="{{ site.url }}{{ previous_post.url }}" title="{{ previous_post.title }}"><span class="title">{{ previous_post.title }}</span></a></li>
                     {% endif %}
                 </ul>
             </nav>

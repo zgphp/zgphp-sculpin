@@ -1,0 +1,38 @@
+<p class="pull-right"><a href="{{ page.url }}/archive">{{ page.title }} Archive</a></p>
+
+<h1>{{ page.title }}</h1>
+
+{% for post in page.pagination.items %}
+    {% set parts = post.blocks.content|split('<!-- break -->', 2) %}
+    {% set excerpt = parts[0] %}
+
+    <article>
+        <header>
+            <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <p>Published: {{ post.date|date("F jS, Y") }}</p>
+        {% if post.image %}
+            <a href="{{ site.url }}{{ post.url }}">
+                <img class="article_image" src="{{ post.image }}" alt="{{ post.title }}" />
+            </a>
+        {% endif %}
+
+        {{ excerpt|raw }}
+
+    </article>
+
+    <p><a href="{{ site.url }}{{ post.url }}">Read more &raquo;</a></p>
+
+    <hr />
+{% endfor %}
+
+{% if page.pagination.previous_page or page.pagination.next_page %}
+    <nav class="pagination">
+        {% if page.pagination.next_page %}
+            <a class="pull-left" href="{{ site.url }}{{ page.pagination.next_page.url }}">&laquo; Older news</a>
+        {% endif %}
+        {% if page.pagination.previous_page %}
+            <a class="pull-right" href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer news &raquo;</a>
+        {% endif %}
+    </nav>
+{% endif %}
