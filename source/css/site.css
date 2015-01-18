@@ -57,3 +57,5 @@ img.article_image { width: 100% }
 nav.pagination { width: 100% }
 
 article .content { margin: 20px 0 }
+
+.frontpage-top h4 { margin-top: 0 }
