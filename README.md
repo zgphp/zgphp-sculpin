@@ -1,6 +1,6 @@
-ZgPHP Videos
-============
+ZgPHP website
+=============
 
-Static site for http://videos.zgphp.org/.
+Static site for http://zgphp.org/.
 
 Powered by [Sculpin](http://sculpin.io). =)
