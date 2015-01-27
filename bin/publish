@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Generate next meetup data
+php bin/get-next.php
+
+# Remove any previous output
+rm -rf output_prod
+
+# Generate the site
+sculpin generate --env=prod
+
+# Sync
+rsync -rv output_prod/* zgphp:www/
