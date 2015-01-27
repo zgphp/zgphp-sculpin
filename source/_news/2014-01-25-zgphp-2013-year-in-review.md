@@ -57,50 +57,91 @@ ideas and fun projects in store for 2014, so stick around.
 
 #### A picture is worth thousand words.
 
-<div>
-    <a class="gallery" href="/uploads/2014/01/2013-11-17-10.48.56.jpg" title="ZgPHP goes to Novi Sad">
-        <img src="/uploads/2014/01/2013-11-17-10.48.56-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-11-16-20.00.27.jpg" title="Yes we did some work in Novi Sad too. Well some of us :)">
-        <img src="/uploads/2014/01/2013-11-16-20.00.27-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-10-26-07.52.35.jpg" title="Morning coffee preparations for WebCamp.">
-        <img src="/uploads/2014/01/2013-10-26-07.52.35-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-10-25-19.17.39.jpg" title="WebCamp &#8211; track A before the conference.">
-        <img src="/uploads/2014/01/2013-10-25-19.17.39-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-10-25-19.17.00.jpg" title="WebCamp &#8211; track B before the conference.">
-        <img src="/uploads/2014/01/2013-10-25-19.17.00-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-10-26-10.09.34.jpg" title="Track B during WebCamp 2013.">
-        <img src="/uploads/2014/01/2013-10-26-10.09.34-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-10-26-23.17.30.jpg" title="Chilling after WebCamp :)">
-        <img src="/uploads/2014/01/2013-10-26-23.17.30-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-09-14-10.08.50.jpg" title="ZgPHP mini conference 2013">
-        <img src="/uploads/2014/01/2013-09-14-10.08.50-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-09-14-10.11.31.jpg" title="Our dear ZgPHP sponsors">
-        <img src="/uploads/2014/01/2013-09-14-10.11.31-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-09-14-11.40.56.jpg" title="Taking a break">
-        <img src="/uploads/2014/01/2013-09-14-11.40.56-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-12-19-18.29.07.jpg" title="A pic from one of our monthly meetups.">
-        <img src="/uploads/2014/01/2013-12-19-18.29.07-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-02-21-18.57.08.jpg" title="Another pic from our monthly meetups">
-        <img src="/uploads/2014/01/2013-02-21-18.57.08-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-07-18-19.11.40.jpg" title="During summers we do only Drinkups.">
-        <img src="/uploads/2014/01/2013-07-18-19.11.40-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-04-27-14.21.29.jpg" title="Yes there was some food too. (Novi Sad, april 2013)">
-        <img src="/uploads/2014/01/2013-04-27-14.21.29-thumb.jpg" />
-    </a>
-    <a class="gallery" href="/uploads/2014/01/2013-05-15-19.02.38.jpg" title="Inception. Verona 2013">
-        <img src="/uploads/2014/01/2013-05-15-19.02.38-thumb.jpg" />
-    </a>
+<div class="row">
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-11-17-10.48.56.jpg" title="ZgPHP goes to Novi Sad">
+            <img src="/uploads/2014/01/2013-11-17-10.48.56-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-11-16-20.00.27.jpg" title="Yes we did some work in Novi Sad too. Well some of us :)">
+            <img src="/uploads/2014/01/2013-11-16-20.00.27-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-10-26-07.52.35.jpg" title="Morning coffee preparations for WebCamp.">
+            <img src="/uploads/2014/01/2013-10-26-07.52.35-thumb.jpg" />
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-10-25-19.17.39.jpg" title="WebCamp &#8211; track A before the conference.">
+            <img src="/uploads/2014/01/2013-10-25-19.17.39-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-10-25-19.17.00.jpg" title="WebCamp &#8211; track B before the conference.">
+            <img src="/uploads/2014/01/2013-10-25-19.17.00-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-10-26-10.09.34.jpg" title="Track B during WebCamp 2013.">
+            <img src="/uploads/2014/01/2013-10-26-10.09.34-thumb.jpg" />
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-10-26-23.17.30.jpg" title="Chilling after WebCamp :)">
+            <img src="/uploads/2014/01/2013-10-26-23.17.30-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-09-14-10.08.50.jpg" title="ZgPHP mini conference 2013">
+            <img src="/uploads/2014/01/2013-09-14-10.08.50-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-09-14-10.11.31.jpg" title="Our dear ZgPHP sponsors">
+            <img src="/uploads/2014/01/2013-09-14-10.11.31-thumb.jpg" />
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-09-14-11.40.56.jpg" title="Taking a break">
+            <img src="/uploads/2014/01/2013-09-14-11.40.56-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-12-19-18.29.07.jpg" title="A pic from one of our monthly meetups.">
+            <img src="/uploads/2014/01/2013-12-19-18.29.07-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-02-21-18.57.08.jpg" title="Another pic from our monthly meetups">
+            <img src="/uploads/2014/01/2013-02-21-18.57.08-thumb.jpg" />
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-07-18-19.11.40.jpg" title="During summers we do only Drinkups.">
+            <img src="/uploads/2014/01/2013-07-18-19.11.40-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-04-27-14.21.29.jpg" title="Yes there was some food too. (Novi Sad, april 2013)">
+            <img src="/uploads/2014/01/2013-04-27-14.21.29-thumb.jpg" />
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a class="gallery" href="/uploads/2014/01/2013-05-15-19.02.38.jpg" title="Inception. Verona 2013">
+            <img src="/uploads/2014/01/2013-05-15-19.02.38-thumb.jpg" />
+        </a>
+    </div>
 </div>

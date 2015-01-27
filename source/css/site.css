@@ -63,3 +63,5 @@ nav.pagination { width: 100% }
 article .content { margin: 20px 0 }
 
 .frontpage-top h4 { margin-top: 0 }
+
+a.gallery { display: block; margin-bottom: 10px }
