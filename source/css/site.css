@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'HandelGothic';
+    src: url('../fonts/HandelGothic.eot');
+    src: local('☺'), url('../fonts/HandelGothic.woff') format('woff'), url('../fonts/HandelGothic.ttf') format('truetype'), url('../fonts/HandelGothic.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 @media (min-width: 1200px) {
     .container {
         width: 970px;
@@ -19,13 +27,6 @@ h2 { font-size: 24px }
 .post-list hr { margin: 10px 0 }
 
 .jumbotron-left { text-align: center; }
-
-/** Make items in navbar centered vertically. */
-@media (min-width: 768px) {
-    .navbar-nav > li > a {
-        padding-top: 22px;
-    }
-}
 
 /* Social icons */
 .social-icons a { display: inline-block; height: 64px; width: 64px; background: no-repeat center center; margin: 2px; border-radius: 5px }
@@ -55,6 +56,9 @@ footer { color: white; background-color: #1f2c39; padding: 30px 0 }
 img.article_image { width: 100% }
 
 nav.pagination { width: 100% }
+
+.navbar-brand { font-family: HandelGothic, sans-serif; font-size: 36px; font-style: italic }
+.navbar-brand em { color: #6C7EB7 }
 
 article .content { margin: 20px 0 }
 
