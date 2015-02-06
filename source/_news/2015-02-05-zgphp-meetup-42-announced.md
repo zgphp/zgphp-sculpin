@@ -4,7 +4,9 @@ title: "ZgPHP meetup #42 announced"
 
 Huh, long time no read? Anyway, let's keep it short because we have an excellent lineup!
 
-[Matej Baćo](https://twitter.com/matejbaco) will speak about Go language. 
+[Matej Baćo](https://twitter.com/matejbaco) will speak about [Go language](http://golang.org/).
+
+Go, new small practical C like language for 21 century. When and how to use it, with a few first hand examples.
 
 Luka Skupnjak will cover upgrading to PHP 5.6 from developers side.
 
