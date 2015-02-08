@@ -7,3 +7,5 @@
 /source/components/
 s3.conf
 .idea/
+bin/.env
+bin/vendor/
