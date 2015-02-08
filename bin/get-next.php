@@ -1,6 +1,8 @@
 #!/usr/bin/env php
 <?php
 
+require 'vendor/autoload.php';
+
 /**
  * Loads next meetup data via meetup.com API and saves a html snippet in
  * /source/_views/generated/next-meetup.html
@@ -12,6 +14,8 @@
  *
  * @see https://secure.meetup.com/meetup_api/key/
  */
+
+Dotenv::load(__DIR__);
 
 $key = getenv("ZGPHP_API_KEY");
 if (!$key) {
