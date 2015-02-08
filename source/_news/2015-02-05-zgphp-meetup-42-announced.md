@@ -13,8 +13,8 @@ Luka Skupnjak will cover upgrading to PHP 5.6 from developers side.
 In this talk you will learn why upgrading is a good idea and how it can be done with no downtime and as few bugs as possible. 
 It will include details about the upgrade procedure, some helpful tips and tricks and introduce [Sentry](https://github.com/getsentry/raven-php) as a central place for error logging.
 
-Do not forget to [RSVP on meetup.com](http://www.meetup.com/ZgPHP-meetup/events/205928902/) as well as give feedback to 
-our speakers on joind.in
+Do not forget to [RSVP on meetup.com](http://www.meetup.com/ZgPHP-meetup/events/205928902/) as well as [give feedback to 
+our speakers on joind.in](https://joind.in/event/view/3363)
 
 Also, we will have few guests from [Toastmasters](http://www.toastmasters.hr) organization to present opportunities on
 how to improve our speakers. 
