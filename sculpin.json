@@ -2,5 +2,14 @@
     "name": "zgphp/videos",
     "description": "ZgPHP Videos page",
     "type": "sculpin-skeleton",
-    "license": "MIT"
+    "license": "MIT",
+    "require": {
+        "lmuzinic/meetup-next-event-bundle": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url":  "git@github.com:lmuzinic/meetup-next-event-bundle.git"
+        }
+    ]
 }

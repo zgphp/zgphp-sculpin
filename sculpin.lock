@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "7438f421c8c939a97f0690d6e7e07fa0",
+    "packages": [
+        {
+            "name": "lmuzinic/meetup-next-event-bundle",
+            "version": "dev-master",
+            "target-dir": "Lmuzinic/Sculpin/Bundle/MeetupNextEventBundle",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:lmuzinic/meetup-next-event-bundle.git",
+                "reference": "e4b54612ce3a9f30f6c6bf7f4efef27e6450f3cb"
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Lmuzinic\\Sculpin\\Bundle\\MeetupNextEventBundle": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Luka Muzinic",
+                    "homepage": "http://luka.muzinic.net"
+                }
+            ],
+            "description": "Sculpin next meetup event",
+            "keywords": [
+                "meetup.com",
+                "next event"
+            ],
+            "time": "2015-02-09 01:29:55"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "lmuzinic/meetup-next-event-bundle": 20
+    },
+    "prefer-stable": false,
+    "platform": [],
+    "platform-dev": []
+}
