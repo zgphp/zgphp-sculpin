@@ -18,7 +18,17 @@ use:
 
         <div class="row">
             <div class="col-md-6">
-                {% include "generated/next-meetup.html" ignore missing %}
+                <h4>Next meetup</h4>
+                <p>
+                    <b>{{ site.meetup }}</b><br />
+                    {{ site.meetup_time }}<br />
+                    <a href="{{ site.meetup_map_url }}">
+                        {{ site.meetup_venue_name }}<br />
+                        {{ site.meetup_venue_address }}
+                    </a>
+                </p>
+
+                <a class="btn btn-default btn-block" href="{{ site.meetup_event_url }}">RSVP here</a>
             </div>
             <div class="col-md-6">
                 <h4>Submit a talk</h4>

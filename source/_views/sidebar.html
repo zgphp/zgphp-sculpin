@@ -1,6 +1,16 @@
 <aside class="sidebar">
     <section>
-        {% include "generated/next-meetup.html" ignore missing %}
+        <h4>Next meetup</h4>
+        <p>
+            <b>{{ site.meetup }}</b><br />
+            {{ site.meetup_time }}<br />
+            <a href="{{ site.meetup_map_url }}">
+                {{ site.meetup_venue_name }}<br />
+                {{ site.meetup_venue_address }}
+            </a>
+        </p>
+
+        <a class="btn btn-default btn-block" href="{{ site.meetup_event_url }}">RSVP here</a>
     </section>
 
     <hr />
