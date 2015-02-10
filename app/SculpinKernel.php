@@ -6,6 +6,8 @@ class SculpinKernel extends \Sculpin\Bundle\SculpinBundle\HttpKernel\AbstractKer
     {
         return array(
             'Lmuzinic\Sculpin\Bundle\MeetupNextEventBundle\MeetupNextEventBundle',
+            'Lmuzinic\Sculpin\Bundle\CreateSourceBundle\CreateSourceBundle',
+            'Cocur\Slugify\Bridge\Symfony\CocurSlugifyBundle'
         );
     }
 }
