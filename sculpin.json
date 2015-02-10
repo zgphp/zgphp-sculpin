@@ -4,18 +4,12 @@
     "type": "sculpin-skeleton",
     "license": "MIT",
     "require": {
-        "lmuzinic/meetup-next-event-bundle": "dev-master",
-        "lmuzinic/create-source": "dev-master",
-        "cocur/slugify": "1.0.*"
+        "zgphp/zgphp-sculpin-additions": "dev-master"
     },
     "repositories": [
         {
             "type": "git",
-            "url":  "git@github.com:lmuzinic/meetup-next-event-bundle.git"
-        },
-        {
-            "type": "git",
-            "url":  "git@github.com:lmuzinic/create-source.git"
+            "url":  "git@github.com:zgphp/zgphp-sculpin-additions.git"
         }
     ]
 }

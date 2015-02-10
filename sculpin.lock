@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b47172379b71a10043329983df44f299",
+    "hash": "fa3b0069473e9c86aed26fce4c05d3f6",
     "packages": [
         {
             "name": "cocur/slugify",
@@ -67,21 +67,59 @@
             "time": "2014-11-26 22:45:14"
         },
         {
-            "name": "lmuzinic/create-source",
-            "version": "dev-master",
-            "target-dir": "Lmuzinic/Sculpin/Bundle/CreateSourceBundle",
+            "name": "mikehaertl/php-shellcommand",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
-                "url": "git@github.com:lmuzinic/create-source.git",
-                "reference": "15f24fec4d6e103aa42cbc237310a885dc8e05bf"
+                "url": "https://github.com/mikehaertl/php-shellcommand.git",
+                "reference": "8f85b119472c98c539c7ac5f4302643ff20df220"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mikehaertl/php-shellcommand/zipball/8f85b119472c98c539c7ac5f4302643ff20df220",
+                "reference": "8f85b119472c98c539c7ac5f4302643ff20df220",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "mikehaertl\\shellcommand\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Michael Härtl",
+                    "email": "haertl.mike@gmail.com"
+                }
+            ],
+            "description": "An object oriented interface to shell commands",
+            "keywords": [
+                "shell"
+            ],
+            "time": "2014-11-03 09:44:24"
+        },
+        {
+            "name": "zgphp/zgphp-sculpin-additions",
+            "version": "dev-master",
+            "target-dir": "Zgphp/Sculpin/Bundle/ZgphpSculpinAdditionsBundle",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:zgphp/zgphp-sculpin-additions.git",
+                "reference": "c2005313f5a6dd9c2bcaeaab35fee9028e87b853"
             },
             "require": {
+                "cocur/slugify": "1.0.*",
+                "mikehaertl/php-shellcommand": "1.0.*",
                 "php": ">=5.4"
             },
             "type": "library",
             "autoload": {
                 "psr-0": {
-                    "Lmuzinic\\Sculpin\\Bundle\\CreateSourceBundle": ""
+                    "Zgphp\\Sculpin\\Bundle\\ZgphpSculpinAdditionsBundle": ""
                 }
             },
             "license": [
@@ -93,55 +131,22 @@
                     "homepage": "http://luka.muzinic.net"
                 }
             ],
-            "description": "Create new posts and videos",
+            "description": "Expansion power pack to make our life easier",
             "keywords": [
+                "meetup",
                 "posts",
+                "publish",
                 "sculpin",
                 "vimeo"
             ],
-            "time": "2015-02-09 23:57:49"
-        },
-        {
-            "name": "lmuzinic/meetup-next-event-bundle",
-            "version": "dev-master",
-            "target-dir": "Lmuzinic/Sculpin/Bundle/MeetupNextEventBundle",
-            "source": {
-                "type": "git",
-                "url": "git@github.com:lmuzinic/meetup-next-event-bundle.git",
-                "reference": "e4b54612ce3a9f30f6c6bf7f4efef27e6450f3cb"
-            },
-            "require": {
-                "php": ">=5.3.2"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-0": {
-                    "Lmuzinic\\Sculpin\\Bundle\\MeetupNextEventBundle": ""
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Luka Muzinic",
-                    "homepage": "http://luka.muzinic.net"
-                }
-            ],
-            "description": "Sculpin next meetup event",
-            "keywords": [
-                "meetup.com",
-                "next event"
-            ],
-            "time": "2015-02-09 01:29:55"
+            "time": "2015-02-10 23:32:18"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "lmuzinic/meetup-next-event-bundle": 20,
-        "lmuzinic/create-source": 20
+        "zgphp/zgphp-sculpin-additions": 20
     },
     "prefer-stable": false,
     "platform": [],

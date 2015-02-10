@@ -5,8 +5,7 @@ class SculpinKernel extends \Sculpin\Bundle\SculpinBundle\HttpKernel\AbstractKer
     protected function getAdditionalSculpinBundles()
     {
         return array(
-            'Lmuzinic\Sculpin\Bundle\MeetupNextEventBundle\MeetupNextEventBundle',
-            'Lmuzinic\Sculpin\Bundle\CreateSourceBundle\CreateSourceBundle',
+            'Zgphp\Sculpin\Bundle\ZgphpSculpinAdditionsBundle\ZgphpSculpinAdditionsBundle',
             'Cocur\Slugify\Bridge\Symfony\CocurSlugifyBundle'
         );
     }
