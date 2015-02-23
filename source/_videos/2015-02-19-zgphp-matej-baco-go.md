@@ -8,11 +8,10 @@ image: http://i.vimeocdn.com/video/508131245_640.jpg
 <a href="http://www.nivas.hr/pub/golangzgphptalk2015/">Slides from talk</a>
 
 Want to give Go language a try?
-<ul>
-<li>Start with <a href="http://tour.golang.org">tour.golang.org</a></li>
-<li>Read <a href="http://golang.org/doc/code.html">How to Write Go Code</a> on <a href="https://golang.org/">golang.org</a></li>
-<li>Read <a href="https://golang.org/doc/effective_go.html">Effective Go</a> on <a href="https://golang.org/">golang.org</a></li>
-<li>Check out <a href="https://groups.google.com/forum/#!forum/golang-nuts">golang-nuts group</a></li>
-<li>Subscribe to <a href="http://golangweekly.com/">golangweekly.com</a> newsletter</li>
-<li>Join <a href="https://www.facebook.com/groups/golanghr/">Golang Hrvatska</a> Facebook group</li>
-<ul>
+
+* Start with <a href="http://tour.golang.org">tour.golang.org</a>
+* Read <a href="http://golang.org/doc/code.html">How to Write Go Code</a> on <a href="https://golang.org/">golang.org</a>
+* Read <a href="https://golang.org/doc/effective_go.html">Effective Go</a> on <a href="https://golang.org/">golang.org</a>
+* Check out <a href="https://groups.google.com/forum/#!forum/golang-nuts">golang-nuts group</a>
+* Subscribe to <a href="http://golangweekly.com/">golangweekly.com</a> newsletter
+* Join <a href="https://www.facebook.com/groups/golanghr/">Golang Hrvatska</a> Facebook group
