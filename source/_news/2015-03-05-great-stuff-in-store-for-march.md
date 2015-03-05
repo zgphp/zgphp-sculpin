@@ -25,3 +25,6 @@ but now I love my life".
 
 Marin is a passionate web developer, lover of all things pre-alpha, tinkerer, father of two, husband of one, 
 living in Zagreb.
+
+<a class="btn btn-info" href="http://www.meetup.com/ZgPHP-meetup/events/205929022/" target="_blank">
+Join us! RSVP here so that we can reserve you a seat!</a>
