@@ -5,3 +5,5 @@ install:
   - composer install
 script:
   - vendor/bin/sculpin generate
+after_success:
+  - vendor/bin/sculpin publish --env=prod
