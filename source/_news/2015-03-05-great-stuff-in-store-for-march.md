@@ -28,3 +28,6 @@ living in Zagreb.
 
 <a class="btn btn-info" href="http://www.meetup.com/ZgPHP-meetup/events/205929022/" target="_blank">
 Join us! RSVP here so that we can reserve you a seat!</a>
+
+Last thing we ask is that you [help our speakers with a big round of feedback](https://joind.in/event/view/3497). 
+Tell them what you liked about their talk or what you think they should improve. You have our eternal gratitude!
