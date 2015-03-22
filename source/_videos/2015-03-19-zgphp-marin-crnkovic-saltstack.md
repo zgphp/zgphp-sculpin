@@ -11,3 +11,5 @@ traditionally owned by [Chef](https://www.chef.io/chef/), [Puppet](https://puppe
 that uses YAML files (psst, they are in fact Twig!). This talk will provide a crash course on the basics of Salt 
 with some examples and use cases and to get you from "I install my software by hand" to "I used to install by hand, 
 but now I love my life".
+
+[Slides from the talk](https://slides.com/marincrnkovic/saltstack-1)
