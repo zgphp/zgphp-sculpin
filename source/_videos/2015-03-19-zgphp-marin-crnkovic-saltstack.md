@@ -62,10 +62,10 @@ There are other ways to write the configuration: for example, you can use JSON i
 ### Conclusion
 To wrap it up, lets see what is possible when using SaltStack. You can install and configure packages, start and stop services, execute commands on remote servers. You can set up servers in all major clouds, such as AWS, Linode, DigitalOcean, Rackspace and others.
 
-Furthermore, since configuration is just a bunch of files, you can version them with git and roll back your server to any previous state. You can even fork server configuration (https://github.com/saltstack-formulas)
+Furthermore, since configuration is just a bunch of files, you can version them with git and roll back your server to any previous state. You can even fork server configuration [https://github.com/saltstack-formulas](https://github.com/saltstack-formulas)
 
 Thank you.
 
-* http://saltstack.com
-* http://docs.saltstack.com/en/latest/index.html
-* https://github.com/saltstack/salt-bootstrap
+* [http://saltstack.com](http://saltstack.com)
+* [http://docs.saltstack.com/en/latest/index.html](http://docs.saltstack.com/en/latest/index.html)
+* [https://github.com/saltstack/salt-bootstrap](https://github.com/saltstack/salt-bootstrap)
