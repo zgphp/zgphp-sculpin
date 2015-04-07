@@ -1,5 +1,5 @@
 ---
-title: ZgPHP Meetup #44: How to get along with other kids
+title: 'ZgPHP Meetup #44: How to get along with other kids'
 ---
 
 Another month, another meetup? Wrong! This one is packed with so much awesome that we can't wait until **April 16th** to 
