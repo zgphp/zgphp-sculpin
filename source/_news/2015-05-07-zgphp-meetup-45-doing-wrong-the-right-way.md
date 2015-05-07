@@ -1,5 +1,5 @@
 ---
-title: ZgPHP Meetup #45: Doing wrong the right way
+title: "ZgPHP Meetup #45: Doing wrong the right way"
 ---
 
 OMG!!!eleven is it time for another meetup? Woot, woot! As usual, packed with much awesome, very talks! Come to
@@ -7,8 +7,8 @@ OMG!!!eleven is it time for another meetup? Woot, woot! As usual, packed with mu
 on **May 21st** and hear all about it.
 
 While Behat is meant for behavior driven design, lot of developers started using it as a tool for integration and 
-regression testing. In a format understandable not only to developers you can easily test behavior of your existing 
-application (any web app, doesn't have to be written in PHP) utilizing different scrapers/crawlers/browsers.
+regression testing. In a format understandable not only to developers you can easily test behaviour of your existing 
+application (any web app, doesn't have to be written in PHP) utilising different scrapers/crawlers/browsers.
 
 Tired of clicking around your browser to create selenium tests? Your application is heavily dependent on javascript? 
 Behat (with help of Mink) can utilize selenium and headless browsers like Firefox or Chrome to verify everything still 
