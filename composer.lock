@@ -2432,7 +2432,7 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:zgphp/zgphp-sculpin-additions.git",
-                "reference": "4b385432902de7c7483bc5aacb9108de86ac6566"
+                "reference": "b285f6632fd8efc351e300359e9945ef382664a3"
             },
             "require": {
                 "cocur/slugify": "1.0.*",
@@ -2462,7 +2462,7 @@
                 "sculpin",
                 "vimeo"
             ],
-            "time": "2015-05-21 14:19:04"
+            "time": "2015-05-21 14:55:09"
         }
     ],
     "packages-dev": [],
