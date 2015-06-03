@@ -6,7 +6,14 @@ That is right kids, school is over, summer break has begun. Celebrate it by atte
 
 ### Ivan Habunek - Generators
 
-Not just for electricity, right?
+*Not just for electricity, right?*
+
+Generators are a cool, relatively new addition to PHP, we all know that. However, real world usage seems to still be pretty low. Many PHP devs are happy just using arrays, like they have done since  the olden days.
+
+This talk will quickly explain how generators work (spoiler: it's very simple) and then cover several real-world use cases.
+
+A live coding session may or may not happen.
+
 
 ### Ignite session
 
