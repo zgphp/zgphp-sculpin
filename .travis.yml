@@ -9,12 +9,10 @@ before_script:
   - 'base64 --decode --ignore-garbage ~/.ssh/id_rsa_base64 > ~/.ssh/id_rsa'
   - 'chmod 600 ~/.ssh/id_rsa'
   - 'echo -e "Host *\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config'
-  - 'echo "Europe/Zagreb" | sudo tee /etc/timezone'
-  - 'sudo dpkg-reconfigure --frontend noninteractive tzdata'
+  #- 'echo "Europe/Zagreb" | sudo tee /etc/timezone'
+  #- 'sudo dpkg-reconfigure --frontend noninteractive tzdata'
   - 'phpenv config-add php.ini'
 script:
-  - vendor/bin/sculpin generate
-after_success:
   - vendor/bin/sculpin publish --env=prod
 
 env:
