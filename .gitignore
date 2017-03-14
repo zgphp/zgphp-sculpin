@@ -8,3 +8,4 @@
 s3.conf
 .idea/
 /vendor/
+/composer.phar
