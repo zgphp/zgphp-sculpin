@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "785da1e9d990b93317e70760483fc423",
+    "content-hash": "7cdadf69b82684483e8171752f2949a7",
     "packages": [
         {
             "name": "cocur/slugify",
@@ -2706,7 +2706,7 @@
             "target-dir": "Zgphp/Sculpin/Bundle/ZgphpSculpinAdditionsBundle",
             "source": {
                 "type": "git",
-                "url": "git@github.com:zgphp/zgphp-sculpin-additions.git",
+                "url": "https://github.com/zgphp/zgphp-sculpin-additions.git",
                 "reference": "995bb8c062bdf6a8e625bfb0782f19fc5ae1b339"
             },
             "require": {
