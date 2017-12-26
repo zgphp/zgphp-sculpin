@@ -1,7 +1,6 @@
 ---
 title: Luka Mužinić - 110 miliona geotargetiranih bannera s VPS-a
-vimeo_id: 84045325
-image: https://i.vimeocdn.com/video/460742991_1280x720.jpg
+archive_id: "ZgPHP110milionageotargetiranihbannerasVPS"
 ---
 
 [Luka Muzinic](http://luka.muzinic.net) će između svojih svjetski poznatih viceva pričati kako su na jednom projektu ubrzali serviranje bannera kroz korištenje mogučnosti Nginxa i memcacheda.  

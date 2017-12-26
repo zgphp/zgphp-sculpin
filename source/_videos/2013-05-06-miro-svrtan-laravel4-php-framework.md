@@ -1,7 +1,6 @@
 ---
 title: Miro Svrtan - Laravel4 PHP framework
-vimeo_id: 64535947
-image: http://b.vimeocdn.com/ts/435/217/435217194_640.jpg
+archive_id: "ZgPHPLaravel4PHPFramework"
 ---
 
 Iako jedan od novijih PHP frameworka, Laravel je zbog svoje jednostavnosti i

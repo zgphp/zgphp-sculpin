@@ -1,7 +1,6 @@
 ---
 title: Marko Elezović - DSL platforma
-vimeo_id: 52085409
-image: http://b.vimeocdn.com/ts/359/273/359273106_1280.jpg
+archive_id: "ZgPHPDSLPlatforma"
 ---
 
 Na zadnjem

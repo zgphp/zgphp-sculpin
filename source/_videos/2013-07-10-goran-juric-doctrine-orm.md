@@ -1,7 +1,6 @@
 ---
 title: Goran Jurić – Doctrine ORM
-vimeo_id: 66249603
-image: http://b.vimeocdn.com/ts/437/576/437576017_640.jpg
+archive_id: "ZgPHPDoctrineORM"
 ---
 
 Video sa predavanja o Doctrine-u, trenutno najmoćnijem objektno relacijskom

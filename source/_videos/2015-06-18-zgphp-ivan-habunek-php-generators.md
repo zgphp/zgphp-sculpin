@@ -1,7 +1,6 @@
 ---
 title: "ZgPHP: Ivan Habunek - PHP generators"
-vimeo_id: 131146229
-image: http://i.vimeocdn.com/video/523294752_640.jpg
+archive_id: "ZgPHPIvanHabunekPHPGenerators"
 ---
 
 Generators are a cool, relatively new addition to PHP, we all know that. However, real world usage seems to still be pretty low. Many PHP devs are happy just using arrays, like they have done since the olden days.

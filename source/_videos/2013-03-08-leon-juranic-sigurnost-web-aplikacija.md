@@ -1,7 +1,6 @@
 ---
 title: Leon Juranić - Sigurnost web aplikacija
-vimeo_id: 60533154
-image: http://b.vimeocdn.com/ts/420/245/420245610_1280.jpg
+archive_id: "ZgPHPSigurnostWebAplikacija"
 ---
 
 Svi smo imali facepalm trenutak kada su nam korisnici pokazali kakve smo

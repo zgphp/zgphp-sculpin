@@ -1,7 +1,6 @@
 ---
 title: Luka Kladarić - LAMP Scaling 101
-vimeo_id: 51802161
-image: http://b.vimeocdn.com/ts/357/287/357287644_1280.jpg
+archive_id: "ZgPHPLAMPScaling101"
 ---
 
 Svi volimo gledati statistiku posjećenosti naših web stranica i aplikacija,

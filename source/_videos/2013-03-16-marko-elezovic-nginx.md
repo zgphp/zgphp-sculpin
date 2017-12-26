@@ -1,7 +1,6 @@
 ---
 title: Marko Elezović - Nginx
-vimeo_id: 61188313
-image: http://b.vimeocdn.com/ts/425/118/425118568_1280.jpg
+archive_id: "ZgPHPNginx"
 ---
 
 Nginx je treći najpopularnijih HTTP server današnjice, odmah nakon Apachea i

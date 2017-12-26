@@ -1,7 +1,6 @@
 ---
 title: Slaven Bačelić - New relic i XHProf: Facebook profil(er) koji trebate imati
-vimeo_id: 59212919
-image: http://b.vimeocdn.com/ts/411/414/411414182_1280.jpg
+archive_id: "ZgPHPFacebookProfilerKojiTrebateImati"
 ---
 
 Prilikom razvoja web aplikacija, gotovo uvijek govorimo kako bi performanse

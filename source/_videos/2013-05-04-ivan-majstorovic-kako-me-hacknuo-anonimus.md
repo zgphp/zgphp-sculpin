@@ -1,7 +1,6 @@
 ---
 title: Ivan Majstorović - Kako me hacknuo Anonimus
-vimeo_id: 64620048
-image: http://b.vimeocdn.com/ts/435/330/435330840_640.jpg
+archive_id: "ZgPHPKakoMeHacknuoAnonimus"
 ---
 
 “Predivno jutro, 11 sati ujutro, Crikvenica, more. Uživam u godišnjem, kad

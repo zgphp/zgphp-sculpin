@@ -1,7 +1,6 @@
 ---
 title: Miro Svrtan - Git motherfu*ker, do you use it?
-vimeo_id: 55510493
-image: http://b.vimeocdn.com/ts/384/201/384201720_1280.jpg
+archive_id: "ZgPHPGitMotherfuKerDoYouUseIt"
 ---
 
 [Miro Svrtan](http://twitter.com/msvrtan) je šokiran činjenicom da mnogi i dalje

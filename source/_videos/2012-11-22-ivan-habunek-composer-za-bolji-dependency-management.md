@@ -1,7 +1,6 @@
 ---
 title: Ivan Habunek - Composer za bolji dependency management
-vimeo_id: 54094660
-image: http://b.vimeocdn.com/ts/373/912/373912954_1280.jpg
+archive_id: "ZgPHPComposer"
 ---
 
 Composer (lat. *com+ponere, “one who puts together”*) je naziv, ali i najbolji

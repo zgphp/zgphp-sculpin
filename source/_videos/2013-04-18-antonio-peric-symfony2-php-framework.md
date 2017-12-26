@@ -1,7 +1,6 @@
 ---
 title: Antonio Perić - Symfony2 PHP framework
-vimeo_id: 64293149
-image: http://b.vimeocdn.com/ts/434/884/434884116_640.jpg
+archive_id: "ZgPHPSymfony2PHPFramework"
 ---
 
 Symfony2 jedan je od popularnijih PHP frameworka, a nedavni prelazak Drupala i

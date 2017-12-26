@@ -1,7 +1,6 @@
 ---
 title: Matej Baćo - Ho, ho, ho, merry tips and tricks
-vimeo_id: 55590745
-image: http://b.vimeocdn.com/ts/384/792/384792073_1280.jpg
+archive_id: "ZgPHPHoHoHoMerryTipsAndTricks"
 ---
 
 Svaki developer ima vreću trikova koje koristi u svakodnevnom radu. [Matej

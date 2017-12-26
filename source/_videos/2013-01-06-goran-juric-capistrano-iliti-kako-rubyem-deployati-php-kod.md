@@ -1,7 +1,6 @@
 ---
 title: Goran Jurić - Capistrano iliti kako Rubyem deployati PHP kod
-vimeo_id: 55463452
-image: http://b.vimeocdn.com/ts/383/872/383872015_1280.jpg
+archive_id: "ZgPHPCapistrano"
 ---
 
 Mislili ste da nije moguće da na ZgPHP meetupu bude priče o Rubyu? Doduše,

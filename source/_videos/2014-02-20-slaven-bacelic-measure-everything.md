@@ -1,7 +1,6 @@
 ---
 title: Slaven Bacelić - Measure (almost) everything with statsd and Graphite
-vimeo_id: 90033197
-image: https://i.vimeocdn.com/video/469014039_1280x720.jpg
+archive_id: "ZgPHPMeasurealmostEverythingWithStatsdAndGraphite"
 ---
 
 "Having realtime overview of critical metrics can help you to detect signs of problems early and minimize their impact" - said Slaven Bacelic on one ZgPHP drinkup and was left with no choice but to speak about it on ZgPHP meetup.

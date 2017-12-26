@@ -1,7 +1,6 @@
 ---
 title: Miro Svrtan - Web application: Tech from startup to enterprise
-vimeo_id: 92589616
-image: https://i.vimeocdn.com/video/472354894_1280x720.jpg
+archive_id: "ZgPHPWebApplicationTechFromStartupToEnterprise"
 ---
 
 Mid 2009, njuskalo.hr was a 2 year old project gaining a lot of traction in local market. In 4,5 years we grew from 23 mil to 340mil PWs, almost at a rate of 100% every year. While we are aware that this traffic is zero to nothing in comparison to some of the world mega sites (Facebook, Twitter, Google) we are a small team (2-4 developers), concentrated on building a product for our local market.

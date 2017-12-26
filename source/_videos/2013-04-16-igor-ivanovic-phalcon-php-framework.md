@@ -1,7 +1,6 @@
 ---
 title: Igor Ivanović - Phalcon PHP framework
-vimeo_id: 63884204
-image: http://b.vimeocdn.com/ts/434/318/434318240_640.jpg
+archive_id: "ZgPHPPhalconFramework"
 ---
 
 Kako je to izgledalo kada Igor Ivanović priča o Phalconu, open source PHP

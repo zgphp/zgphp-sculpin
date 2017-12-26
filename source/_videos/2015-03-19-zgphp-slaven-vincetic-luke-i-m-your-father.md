@@ -1,7 +1,6 @@
 ---
 title: ZgPHP: Slaven Vincetić - Luke, I’m your father
-vimeo_id: 122843433
-image: http://i.vimeocdn.com/video/511969123_640.jpg
+archive_id: "ZgPHPSlavenVinceticLukeImYourFather"
 ---
 
 how to create elite jedi order of developers and to ensure that the quality of every project, 

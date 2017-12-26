@@ -1,7 +1,6 @@
 ---
 title: Edi Modrić - Development vanjskih poslova i europskih integracija
-vimeo_id: 62084354
-image: http://b.vimeocdn.com/ts/432/251/432251197_1280.jpg
+archive_id: "ZgPHPDevelopmentVanjskihPoslovaIEuropskihIntegracija"
 ---
 
 Mali broj domaćih developera ima priliku surađivati s internacionalnim timom na

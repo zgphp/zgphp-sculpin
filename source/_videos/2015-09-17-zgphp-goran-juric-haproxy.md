@@ -1,7 +1,6 @@
 ---
 title: "ZgPHP: Goran Juric - HAProxy"
-vimeo_id: 139637063
-image: http://i.vimeocdn.com/video/535617389_640.jpg
+archive_id: "ZgPHPGoranJuricHAProxy"
 ---
 
 Haproxy is a TCP/HTTP load balancer. Learn what that exactly means and how you can leverage it to increase your web sites availability or distribute the load between multiple servers.

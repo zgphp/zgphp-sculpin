@@ -1,7 +1,6 @@
 ---
 title: ZgPHP: Marin Crnković - SaltStack
-vimeo_id: 122843434
-image: http://i.vimeocdn.com/video/511968385_640.jpg
+archive_id: "ZgPHPMarinCrnkovicSaltStack"
 ---
 
 [Marin Crnković](http://blog.anorgan.com/) from [web.burza](http://web.burza.hr/) will 
